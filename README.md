@@ -66,7 +66,7 @@ Windowing is not correct on Microsoft Windows OS and needs to be tweaked.
 When cloning this repository to use with PyCharm you may run into PyCharm issues
 if your version of PyCharm is different than mine. I'm using PyCharm 5.0.1.
 
-## Other Notes
+# RaspberryPi
 This application runs very well on RaspberryPi using a Debian based distribution.
 I tested on RaspberryPi (original B model) using the Raspbian image at:
 https://www.raspberrypi.org/downloads/
