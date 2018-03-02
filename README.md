@@ -74,6 +74,10 @@ https://www.raspberrypi.org/downloads/
 
 
 
+## Python 3.6
+March 2, 2018 - Python 3.6.4 was tested with this application.  
+To use with Python 3.6 simply clone this repository and run it from a Python 3.6 envrionment or virtual env.
+Please let me know if there are any bugs running in Py 3.6 by submitting an issue.
 
 
 
